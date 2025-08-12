@@ -2,8 +2,6 @@
 
 Welcome to **ETHOS ROYALE**, a thrilling 2D action game built with JavaScript and HTML5 Canvas! Battle three unique enemies in a dark, moonlit forest, using powerful $AIR attacks and devastating nukes. Dodge enemy projectiles, collect health pickups, and survive the onslaught under the glow of purple and red moons.
 
-## Play Now
-Open the game in your browser: (https://fear82.github.io/ETHOS-ROYALE/)
 ## How to Play
 ### Controls
 - **Arrow Keys**: Move left or right.
